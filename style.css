@@ -1,0 +1,34 @@
+@import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+body{
+	background-color: #293134;
+	color: #8cbbad;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	font-size: 20px;
+}
+
+h1{
+	font-family: 'Indie Flower', cursive;
+	color: #ec7600;
+}
+
+a{
+	color: #1b8e4d;
+}
+
+.boite1{
+    width: 500px;
+    height: 100px;
+    background:rgba(255,255,255,0.3);
+    margin: 10px auto;
+}
+
+.date{
+    font-size: 15px;
+    padding: 15px;
+}
+
+.exam{
+    padding: 15px;
+    font-weight: bolder;
+}
